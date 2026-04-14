@@ -1,4 +1,4 @@
-Subject,Gender,Age,WCC,CRP,Complication
+Subject,Sex,Age,WCC,CRP,Complication
 1,Female,18,17,390,Complication
 2,Male,22,9.21,11,No complication
 3,Male,37,9.7,75,Complication
